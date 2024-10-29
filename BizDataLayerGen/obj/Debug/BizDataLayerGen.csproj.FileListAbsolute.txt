@@ -1,0 +1,12 @@
+C:\Programation Level 2\BizDataLayerGen\bin\Debug\BizDataLayerGen.exe.config
+C:\Programation Level 2\BizDataLayerGen\bin\Debug\BizDataLayerGen.exe
+C:\Programation Level 2\BizDataLayerGen\bin\Debug\BizDataLayerGen.pdb
+C:\Programation Level 2\BizDataLayerGen\bin\Debug\Guna.UI2.dll
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.csproj.AssemblyReference.cache
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.Properties.Resources.resources
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.csproj.GenerateResource.cache
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.csproj.CoreCompileInputs.cache
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.csproj.CopyComplete
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.exe
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.pdb
+C:\Programation Level 2\BizDataLayerGen\obj\Debug\BizDataLayerGen.CodeGenratorForm.resources
